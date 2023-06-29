@@ -5,7 +5,7 @@ MatlabSim is a repository that contains a collection of physical simulations imp
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- 
+
 ## Installation
 
 To use MatlabSim, you need to have MATLAB installed on your machine. The simulations provided in this repository are compatible with MATLAB versions R2016b and above.
