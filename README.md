@@ -14,7 +14,7 @@ To get started, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```shell
-   git clone https://github.com/your-username/MatlabSim.git
+   git clone https://github.com/enginestein/MatlabSim.git
    ```
 
 2. Launch MATLAB and navigate to the `MatlabSim` directory.
